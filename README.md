@@ -1,5 +1,4 @@
-
-Java Swing Calculator
+# Java Swing Calculator
 
 A simple calculator application built using Java Swing for the graphical user interface (GUI). This calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -10,7 +9,7 @@ A simple calculator application built using Java Swing for the graphical user in
 - **Clear and Delete Functions**: Clear the input field or delete the last character.
 - **Negative Numbers**: Input and calculate with negative numbers.
 
--> Getting Started
+ -> Getting Started
 
 These instructions will help you set up and run the project on your local machine.
 
